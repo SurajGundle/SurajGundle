@@ -1,5 +1,7 @@
 <h1>###Hi 👋, I'm Suraj Gundle</h1>
 
+<!----------------------------------- About Section ------------------------------------>
+
  <h3>A Backend Developer based in India</h3> 
 
 
@@ -20,14 +22,38 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java , DSA , MySql , HTML, JavaScript
 - 📫 How to reach me  surajgundle35@gmail.com
 
+<!----------------social media connect------------->
+<h2><i>Let's Connect</i></h2>
 
- <div class="heading">
-        <h3>Connect with me:</h3>
-        <h2>Linkedin :- <a href="https://www.linkedin.com/in/surajgundle/"></a> </h2>
-        <h2>Github :- <a href="https://github.com/SurajGundle"></a></h2>
-    </div>
-    <div class="heading">
-        <h3>Languages and Tools:</h3>
-    </div>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/surajgundle/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://surajgundle.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
+    </a>
+    <a title="surajgundle35@gmail.com" href="mailto:surajgundle35@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="surajgundle35@gmail.com" />
+    </a>
+</p>
+<br>
+
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+   
+</p>
+<br>
+
 
 
