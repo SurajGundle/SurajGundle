@@ -11,7 +11,6 @@ I am a passion-driven backend developer. I can write clean, reusable, and optimi
 
 
 
-**SurajGundle/SurajGundle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,11 +20,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java , DSA , MySql , HTML, JavaScript
 - 📫 How to reach me  surajgundle35@gmail.com
 
--->
 
-    <div class="heading">
+ <div class="heading">
         <h3>Connect with me:</h3>
-  
+        <h2>Linkedin :- <a href="https://www.linkedin.com/in/surajgundle/"></a> </h2>
+        <h2>Github :- <a href="https://github.com/SurajGundle"></a></h2>
     </div>
     <div class="heading">
         <h3>Languages and Tools:</h3>
