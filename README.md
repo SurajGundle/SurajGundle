@@ -1,4 +1,11 @@
 ###Hi 👋, I'm Suraj Gundle
 
-<!--![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966](https://user-images.githubusercontent.com/103949801/204312252-9e764a5d-f14b-4f19-927c-4bebaa3cfc01.gif)
+A Backend Developer based in India
+
+Knowledge is power.......!
+I am a passion-driven backend developer. I can write clean, reusable, and optimized code. I have the necessary skills and experience required for building and maintaining back-end web applications. I am looking forward to working in a prestigious organization with a progressive and challenging work environment..
+
+
+
+
 
