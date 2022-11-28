@@ -1,4 +1,4 @@
-###Hi 👋, I'm Ajay Singh Shekhawat
+###Hi 👋, I'm Suraj Gundle
 
 <!--
 **SurajGundle/SurajGundle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
