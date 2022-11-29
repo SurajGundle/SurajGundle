@@ -1,59 +1,30 @@
-<h1>###Hi 👋, I'm Suraj Gundle</h1>
+<h1 align="center">Hi 👋, I'm Suraj Gundle</h1>
+<h3 align="center">A passionate Backend Developer based in India</h3>
 
-<!----------------------------------- About Section ------------------------------------>
-
- <h3>A Backend Developer based in India</h3> 
-
-
-![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966](https://user-images.githubusercontent.com/103949801/204314442-f5213187-59c2-4f13-94ee-85753f6fd88e.gif)
-
-
-Knowledge is power.......!
-I am a passion-driven backend developer. I can write clean, reusable, and optimized code. I have the necessary skills and experience required for building and maintaining back-end web applications. I am looking forward to working in a prestigious organization with a progressive and challenging work environment..
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966](https://user-images.githubusercontent.com/103949801/204467455-5bfa7257-0da5-49fb-a826-2308b738faa6.gif)
 
 
 
+- 🔭 I’m currently working on **Java Backend Development**
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Java , DSA , MySql , HTML, JavaScript**
 
-- 🔭  I’m currently working on Backend Developer
-- 🌱 I’m currently learning Java, DSA!
-- 👯 I’m looking to collaborate on New Projects
-- 💬 Ask me about Java , DSA , MySql , HTML, JavaScript
-- 📫 How to reach me  surajgundle35@gmail.com
+- 🌱 I’m currently learning **Java, DSA**
 
-<!----------------social media connect------------->
-<h2><i>Let's Connect</i></h2>
+- 👯 I’m looking to collaborate on **New Projects**
 
+- 👨‍💻 All of my projects are available at [https://surajgundle.github.io/](https://surajgundle.github.io/)
 
+- 📫 How to reach me **surajgundle35@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/surajgundle/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a href="https://surajgundle.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="portfolio" />
-    </a>
-    <a title="surajgundle35@gmail.com" href="mailto:surajgundle35@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="surajgundle35@gmail.com" />
-    </a>
+<a href="https://linkedin.com/in/surajgundle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajgundle" height="30" width="40" /></a>
 </p>
-<br>
 
-<!----------------------------------- Tech Stack Section ------------------------------------>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h2><i>Tech Stack</i></h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgundle&show_icons=true&locale=en" alt="surajgundle" /></p>
 
-<p>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java 8" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-   
-</p>
-<br>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgundle&" alt="surajgundle" /></p>
