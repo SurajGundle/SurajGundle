@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Suraj Gundle</h1>
 <h3 align="center">A passionate Backend Developer based in India</h3>
 
