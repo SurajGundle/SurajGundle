@@ -19,9 +19,9 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://surajgundle.github.io/](https://surajgundle.github.io/) -->
 
-<p>Check out <a href="https://surajgundle.github.io/">👨‍💻 All of my projects are available at</a>.</p>
+<p>👨‍💻 All of my projects are available at <a href="https://surajgundle.github.io/" target="_blank>Portfolio</a>.</p>
 
-<p>Check out <a href="surajgundle35@gmail.com">📫 How to reach me</a>.</p>
+<p>📫 How to reach me <a href="surajgundle35@gmail.com" target="_blank> surajgundle35@gmail.com</a>.</p>
 
 <!-- - 📫 How to reach me **surajgundle35@gmail.com** -->
 
