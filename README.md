@@ -17,9 +17,13 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 👨‍💻 All of my projects are available at [https://surajgundle.github.io/](https://surajgundle.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://surajgundle.github.io/](https://surajgundle.github.io/) -->
 
-- 📫 How to reach me **surajgundle35@gmail.com**
+<p>Check out <a href="https://surajgundle.github.io/">👨‍💻 All of my projects are available at</a>.</p>
+
+<p>Check out <a href="surajgundle35@gmail.com">📫 How to reach me</a>.</p>
+
+<!-- - 📫 How to reach me **surajgundle35@gmail.com** -->
 
 
 
