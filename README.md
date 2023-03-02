@@ -35,8 +35,8 @@
     <br/>
   <p align="center">
   <a href="https://github.com/surajgundle">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=surajgundle&theme=gotham&count_private=true" />
-    <img width="49.5%" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgundle&theme=gotham&hide_border=false" />
+  <img width="49.5%" height="220px" src="https://github-readme-stats.vercel.app/api?username=surajgundle&theme=gotham&count_private=true" />
+    <img width="49.5%" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgundle&theme=gotham&hide_border=false" />
   </a>
 </p>
   
